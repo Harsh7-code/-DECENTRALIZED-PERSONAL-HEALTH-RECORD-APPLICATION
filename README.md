@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images and videos/Cover.png" alt="Cover"/>
-</p>
-
 # Hospital_Management_System_Dapp
 
 It is an Ethereum blockchain based database management system for hospital record management.
@@ -29,13 +25,8 @@ To learn how to develop MetaMask-compatible applications, visit their [Developer
 To learn how to contribute to the MetaMask project itself, visit their [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
 
 &nbsp;
-
-
 &nbsp;
-
 ### Remix IDE
-
-
 Please Refer the official documentation or the GITHUB Repository to install and run REMIX IDE for deploying Smart contracts
 
 [Official Website](https://remix-ide.readthedocs.io/en/latest/run.html)
