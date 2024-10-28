@@ -6,18 +6,6 @@
 
 It is an Ethereum blockchain based database management system for hospital record management.
 
-# Screenshots of working
-&nbsp; 
-
-The below image is a compilation of images which show the successful deployment and working of the project done through REMIX IDE and the Project is run through NodeJS and Lite-Server on Local System
-
-
-<p align="center">
-  <img src="./images and videos/Project.gif" alt="Image"/>
-</p>
-
-&nbsp;
-
 # Deployment and Running Instructions
 
 &nbsp;
